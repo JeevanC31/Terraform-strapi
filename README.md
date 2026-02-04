@@ -23,7 +23,7 @@ main.tf
 provider.tf
 variables.tf
 terraform.tfvars
-
+```
 Deploy
 terraform init
 terraform apply
